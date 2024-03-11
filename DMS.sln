@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMS.Api", "API\DMS.Api.csproj", "{1C88818F-2566-4311-9398-EDCBCBF3F1DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMS.BusinessAccessLayer", "DMS.BusinessAccessLayer\DMS.BusinessAccessLayer.csproj", "{1A8EFD4A-6F62-4ECE-86B0-635184197855}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMS.DataAccessLayer", "DMS.DataAccessLayer\DMS.DataAccessLayer.csproj", "{36E183A8-2602-42DB-98BF-1C7AC3410845}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMS.Components", "DMS.Components\DMS.Components.csproj", "{07748CE0-6DE5-4BC1-9BBF-DC46ED50AA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C88818F-2566-4311-9398-EDCBCBF3F1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C88818F-2566-4311-9398-EDCBCBF3F1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C88818F-2566-4311-9398-EDCBCBF3F1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C88818F-2566-4311-9398-EDCBCBF3F1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8EFD4A-6F62-4ECE-86B0-635184197855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8EFD4A-6F62-4ECE-86B0-635184197855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8EFD4A-6F62-4ECE-86B0-635184197855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8EFD4A-6F62-4ECE-86B0-635184197855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E183A8-2602-42DB-98BF-1C7AC3410845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E183A8-2602-42DB-98BF-1C7AC3410845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E183A8-2602-42DB-98BF-1C7AC3410845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E183A8-2602-42DB-98BF-1C7AC3410845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07748CE0-6DE5-4BC1-9BBF-DC46ED50AA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07748CE0-6DE5-4BC1-9BBF-DC46ED50AA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07748CE0-6DE5-4BC1-9BBF-DC46ED50AA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07748CE0-6DE5-4BC1-9BBF-DC46ED50AA37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A65B29-FCF7-4BAF-8378-7414E2F86839}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://infionictfs:8080/tfs/infionic
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = API\\DMS.Api.csproj
+		SccProjectName1 = API
+		SccLocalPath1 = API
+		SccProjectUniqueName2 = DMS.BusinessAccessLayer\\DMS.BusinessAccessLayer.csproj
+		SccProjectName2 = DMS.BusinessAccessLayer
+		SccLocalPath2 = DMS.BusinessAccessLayer
+		SccProjectUniqueName3 = DMS.DataAccessLayer\\DMS.DataAccessLayer.csproj
+		SccProjectName3 = DMS.DataAccessLayer
+		SccLocalPath3 = DMS.DataAccessLayer
+		SccProjectUniqueName4 = DMS.Components\\DMS.Components.csproj
+		SccProjectName4 = DMS.Components
+		SccLocalPath4 = DMS.Components
+	EndGlobalSection
+EndGlobal
